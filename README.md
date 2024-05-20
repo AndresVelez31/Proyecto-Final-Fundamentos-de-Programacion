@@ -1,4 +1,4 @@
-## PROYECTO FINAL FUNDAMENTOS DE PROGRAMACION
+## PROYECTO FINAL
 
 Bienvenido al Proyecto Final de Fundamentos de Programacion realizado por:
 
